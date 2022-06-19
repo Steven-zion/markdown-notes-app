@@ -140,5 +140,7 @@ button:focus {
 }
 
 .uil-trash-alt{
+    background-color: inherit;
+    color: #eee;
     font-size: 1.1rem;
 }
